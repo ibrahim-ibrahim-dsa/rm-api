@@ -1,19 +1,18 @@
 {
   [
     {
-      "title": "Interstellar",
-      "image": "https://www.mauvais-genres.com/19056-large_default/interstellar-french-movie-poster-15x21-2014-christopher-nolan-matthew-mcconaughey.jpg",
-      "year": 2014,
+      "title": "Ant-Man and the Wasp",
+      "video": "https://movietrailers.apple.com/movies/marvel/ant-man-and-the-wasp-quantumania/ant-man-and-the-wasp-quantumania-trailer-2_h480p.mov",
+      "year": 2023,
       "platforms": [
-        "Netflix",
         "Amazon Prime",
         "HBO Max"
       ],
-      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity\\'s survival."
+      "description": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible."
     },
     {
       "title": "Shazam! Fury of the Gods",
-      "image": "https://i0.wp.com/batman-news.com/wp-content/uploads/2022/11/Shazam-Fury-of-the-Gods-Poster-1-Featured-01.jpg?resize=1392%2C783&quality=80&strip=info&ssl=1",
+      "video": "https://movietrailers.apple.com/movies/wb/shazam-fury-of-the-gods/shazam-fury-of-the-gods-trailer-2-1k_h480p.mov",
       "year": 2023,
       "platforms": [
         "Netflix",
