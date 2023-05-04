@@ -1,7 +1,7 @@
 [
    {
      "title": "Ant-Man and the Wasp",
-     "video": "https://movietrailers.apple.com/movies/marvel/ant-man-and-the-wasp-quantumania/ant-man-and-the-wasp-quantumania-trailer-2_h480p.mov",
+     "video": "https://cdn.coverr.co/videos/coverr--07-022-22-girl-with-analog-camera_0007-9901/1080p.mp4",
      "year": 2023,
      "platforms": [
        "Amazon Prime",
@@ -11,12 +11,21 @@
    },
    {
      "title": "Shazam! Fury of the Gods",
-     "video": "https://movietrailers.apple.com/movies/wb/shazam-fury-of-the-gods/shazam-fury-of-the-gods-trailer-2-1k_h480p.mov",
+     "video": "https://cdn.coverr.co/videos/coverr-a-man-looking-at-christmas-pictures-on-his-computer-2695/1080p.mp4",
      "year": 2023,
      "platforms": [
        "Netflix",
        "Amazon Prime Video"
      ],
      "description": "Bestowed with the powers of the gods, Billy Batson and his fellow foster kids are still learning how to juggle teenage life with their adult superhero alter egos"
+   },
+   {
+     "title": "Avatar: The Way of Water",
+     "video": "https://cdn.coverr.co/videos/coverr-man-biking-in-the-gym-2972/1080p.mp4",
+     "year": 2023,
+     "platforms": [
+       "Amazon Prime", "Disney Plus"
+     ],
+     "description": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure."
    }
 ]
