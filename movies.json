@@ -1,24 +1,22 @@
-{
-  [
-    {
-      "title": "Ant-Man and the Wasp",
-      "video": "https://movietrailers.apple.com/movies/marvel/ant-man-and-the-wasp-quantumania/ant-man-and-the-wasp-quantumania-trailer-2_h480p.mov",
-      "year": 2023,
-      "platforms": [
-        "Amazon Prime",
-        "HBO Max"
-      ],
-      "description": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible."
-    },
-    {
-      "title": "Shazam! Fury of the Gods",
-      "video": "https://movietrailers.apple.com/movies/wb/shazam-fury-of-the-gods/shazam-fury-of-the-gods-trailer-2-1k_h480p.mov",
-      "year": 2023,
-      "platforms": [
-        "Netflix",
-        "Amazon Prime Video"
-      ],
-      "description": "Bestowed with the powers of the gods, Billy Batson and his fellow foster kids are still learning how to juggle teenage life with their adult superhero alter egos"
-    }
-  ]
-}
+[
+   {
+     "title": "Ant-Man and the Wasp",
+     "video": "https://movietrailers.apple.com/movies/marvel/ant-man-and-the-wasp-quantumania/ant-man-and-the-wasp-quantumania-trailer-2_h480p.mov",
+     "year": 2023,
+     "platforms": [
+       "Amazon Prime",
+       "HBO Max"
+     ],
+     "description": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible."
+   },
+   {
+     "title": "Shazam! Fury of the Gods",
+     "video": "https://movietrailers.apple.com/movies/wb/shazam-fury-of-the-gods/shazam-fury-of-the-gods-trailer-2-1k_h480p.mov",
+     "year": 2023,
+     "platforms": [
+       "Netflix",
+       "Amazon Prime Video"
+     ],
+     "description": "Bestowed with the powers of the gods, Billy Batson and his fellow foster kids are still learning how to juggle teenage life with their adult superhero alter egos"
+   }
+]
